@@ -58,4 +58,7 @@ from terminal (_also works on windows!_):
 curl https://https://raw.githubusercontent.com/Kn-Ht/clog.h/main/clog.h -o clog.h
 ```
 Or alternatively:  
-Select **clog.h** from the file tree --> press raw in the top right --> copy the content --> paste into file called **clog.h**
+1. Select **clog.h** from the file tree
+2. press raw in the top right
+3. copy the content
+4. paste into file called **clog.h**
