@@ -2,6 +2,8 @@
 #define CLOG_H
 
 //! clog.h - A simple single header C logging library
+//! From https://github.com/Kn-Ht/clog.h
+//! For legal details, see LICENSE file
 
 #include <stdlib.h>
 #include <stdio.h>
