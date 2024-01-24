@@ -50,5 +50,12 @@ int main(void) {
 
     return 0;
 }
-
 ```
+---
+### Downloading  
+from terminal (_also works on windows!_):  
+```sh
+curl https://https://raw.githubusercontent.com/Kn-Ht/clog.h/main/clog.h -o clog.h
+```
+Or alternatively:  
+Select **clog.h** from the file tree --> press raw in the top right --> copy the content --> paste into file called **clog.h**
